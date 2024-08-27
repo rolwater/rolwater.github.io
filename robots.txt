@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rolwater.github.io/sitemap.html.gz
+Sitemap: https://rolwater.github.io/app/sitemap.html.gz
+Sitemap: https://rolwater.github.io/assets/sitemap.html.gz
+Sitemap: https://rolwater.github.io/css/sitemap.html.gz
+Sitemap: https://rolwater.github.io/includes/sitemap.html.gz
+Sitemap: https://rolwater.github.io/item/sitemap.html.gz
+Sitemap: https://rolwater.github.io/src/sitemap.html.gz
